@@ -1,1 +1,1 @@
-A gi repo for 30 projects a day for 30 days
+A git repo for 30 projects a day for 30 days
